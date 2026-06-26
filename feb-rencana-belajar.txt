@@ -1,0 +1,4 @@
+rencana belajar
+- git github
+- machine learning
+- deep learning
