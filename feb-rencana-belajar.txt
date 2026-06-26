@@ -1,0 +1,6 @@
+rencana belajar
+- git github
+* branch
+* merge
+- machine learning
+- deep learning
